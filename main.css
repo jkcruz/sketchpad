@@ -1,0 +1,33 @@
+html, body {
+    width: 100%;
+    margin: 0;
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+
+#menu {
+    text-align: center;
+    justify-content: center;
+}
+
+.tile {
+    background-color: black;
+    float: left;
+    /*border-radius: 50%;*/
+}
+
+.wrapper {
+    margin: auto;
+    margin-bottom: 10%;
+    align-self: center;
+    height: 960px;
+    width: 960px;
+}
